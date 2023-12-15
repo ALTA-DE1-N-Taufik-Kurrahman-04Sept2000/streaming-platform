@@ -1,0 +1,3 @@
+Task-2
+
+Create new table named cdc_tables then doing insert, update and delete operation!
